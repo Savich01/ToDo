@@ -1,0 +1,10 @@
+body { 
+    max-width: 1200px;
+    background: tan;
+    margin: 0 auto;
+}
+.block1 {
+    max-width: 900px;
+    background-color: aliceblue;
+    height: 100px;
+}

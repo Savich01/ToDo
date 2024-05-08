@@ -1,0 +1,14 @@
+body { 
+    max-width: 100%;
+    background: tan;
+}
+.block1 {
+    max-width: 900px;
+    background-color: aliceblue;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.title {
+   color: #000;
+}
